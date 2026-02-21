@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "Kairos Route",
+    "subtitle": "Innovative Progressive Web Apps for every journey",
+    "description": "Explore our collection of powerful, installable web applications designed to work seamlessly across all your devices.",
+    "cta": "Explore Apps"
+  },
+  "apps": {
+    "title": "Our Applications",
+    "install": "Install App",
+    "app1": {
+      "name": "App One",
+      "description": "A powerful progressive web app for your daily workflow.",
+      "url": "#"
+    },
+    "app2": {
+      "name": "App Two",
+      "description": "Streamline your tasks with this intelligent assistant.",
+      "url": "#"
+    },
+    "app3": {
+      "name": "App Three",
+      "description": "Connect and collaborate with teams around the world.",
+      "url": "#"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
